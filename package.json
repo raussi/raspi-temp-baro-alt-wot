@@ -1,0 +1,19 @@
+{
+  "name": "raspi-temp-baro-alt-wot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "raspi-temp-baro-alt-wot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cylon": "^1.1.0",
+    "cylon-gpio": "^0.26.0",
+    "cylon-i2c": "^0.22.0",
+    "cylon-raspi": "^0.17.0",
+    "express": "^4.13.3",
+    "ws": "^0.8.0"
+  }
+}

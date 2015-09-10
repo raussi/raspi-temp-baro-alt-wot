@@ -1,0 +1,27 @@
+{
+    "pi": {
+        "name": "Barometer, temperature and altitude Raspberry Pi WoT (Web of Thing)",
+        "description": "GY-65 sensor connected to Raspberry Pi",
+        "port": 8484,
+        "sensors": {
+            "barometer": {
+                "name": "Barometer Sensor",
+                "description": "A barometer sensor.",
+                "unit": "Pascal",
+                "value": 0
+            },
+            "temperature": {
+                "name": "Temperature Sensor",
+                "description": "An ambient temperature sensor.",
+                "unit": "celsius",
+                "value": 0
+            },
+            "altitude": {
+                "name": "Altitude Sensor",
+                "description": "An altitude sensor.",
+                "unit": "meter",
+                "value": 0
+            }
+        }
+    }
+}
