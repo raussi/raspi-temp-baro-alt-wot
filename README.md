@@ -1,6 +1,6 @@
 ## raspi-temp-baro-alt-wot
 
-Raspberry Pi Temperature, Barometer and Altitude WoT (Web of Thing) demo with Windows Phone UI
+Raspberry Pi Temperature, Barometer and Altitude WoT (Web of Thing) GY-65 sensor demo with Windows Phone UI.
 
 ## Installation
 
